@@ -21,16 +21,16 @@ theme = "DoIt"
       # You can refer to the official documentation of giscus to use the following configuration.
       # 你可以参考官方文档来使用下列配置
       enable = true
-      repo = "threepotatox/cool"
-      repoId = "R_kgDONF02FA"
-      category = "Announcements"
-      categoryId = "DIC_kwDONF02FM4CjsJi"
-      lang = ""
-      mapping = "pathname"
-      reactionsEnabled = "1"
-      emitMetadata = "0"
-      inputPosition = "bottom"
-      lazyLoading = false
+      dataRepo = "threepotatox/cool"
+      dataRepoId = "R_kgDONF02FA"
+      dataCategory = "Announcements"
+      dataCategoryId = "DIC_kwDONF02FM4CjsJi"
+      #dataLang = ""
+      dataMapping = "pathname"
+      dataReactionsEnabled = "1"
+      dataEmitMetadata = "0"
+      dataInputPosition = "bottom"
+      dataLoading = "lazy"
       lightTheme = "light"
       darkTheme = "dark"
 
