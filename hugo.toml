@@ -1,4 +1,4 @@
-baseURL = "https://threepotatox.github.io/cool.github.io/"
+baseURL = "https://threepotatox.github.io/cool/"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写
@@ -21,7 +21,7 @@ theme = "DoIt"
       # You can refer to the official documentation of giscus to use the following configuration.
       # 你可以参考官方文档来使用下列配置
       enable = true
-      repo = "threepotatox/cool.github.io"
+      repo = "threepotatox/cool"
       repoId = "R_kgDONF02FA"
       category = "Announcements"
       categoryId = "DIC_kwDONF02FM4CjsJi"
