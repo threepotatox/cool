@@ -13,18 +13,19 @@ theme = "DoIt"
 
 [params]
   # DoIt 主题版本
-  version = "0.2.X"
-[params.page.comment]
-enable = true
-[params.page.comment.giscus]
-# You can refer to the official documentation of giscus to use the following configuration.
-# 你可以参考官方文档来使用下列配置
-enable = true
-repo = "threepotatox/cool.github.io"
-repoId = "R_kgDONF02FA"
-category = "Announcements"
-categoryId = "DIC_kwDONF02FM4CjsJi"
-mapping = "pathname"
+  #version = "0.2.X"
+  [params.page]
+    [params.page.comment]
+      enable = true
+      [params.page.comment.giscus]
+      # You can refer to the official documentation of giscus to use the following configuration.
+      # 你可以参考官方文档来使用下列配置
+      enable = true
+      repo = "threepotatox/cool.github.io"
+      repoId = "R_kgDONF02FA"
+      category = "Announcements"
+      categoryId = "DIC_kwDONF02FM4CjsJi"
+      mapping = "pathname"
 
 [menu]
   [[menu.main]]
