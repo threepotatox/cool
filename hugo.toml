@@ -25,7 +25,14 @@ theme = "DoIt"
       repoId = "R_kgDONF02FA"
       category = "Announcements"
       categoryId = "DIC_kwDONF02FM4CjsJi"
+      lang = ""
       mapping = "pathname"
+      reactionsEnabled = "1"
+      emitMetadata = "0"
+      inputPosition = "bottom"
+      lazyLoading = false
+      lightTheme = "light"
+      darkTheme = "dark"
 
 [menu]
   [[menu.main]]
