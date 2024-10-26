@@ -12,3 +12,9 @@ Visit the [Hugo](https://gohugo.io) website!
 ## Test
 
 This is text Action!
+```c {open=true, title="test-c"}
+int main()
+{
+    printf
+}
+```
